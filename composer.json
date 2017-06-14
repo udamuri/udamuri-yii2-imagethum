@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "udamuri/yii2-imagethum": "~1.0.0"
+        "udamuri/yii2-imagethum": "~1.0"
     },
     "autoload": {
         "psr-4": {
